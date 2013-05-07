@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">WidgetHostExample</string>
     
-    
+    <string name="action_settings">Settings</string>
     <string name="menu_insert_widget_label">Add Widget</string>
     <string name="group_search">Search</string>
     
